@@ -1,0 +1,9 @@
+[package]
+name = "file_info"
+version = "0.1.2"
+edition = "2021"
+description = "A Rust program that inspects a file and prints its metadata including file size and type."
+license = "MIT"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+keywords = ["rust", "file-metadata", "filesystem", "unix"]
+

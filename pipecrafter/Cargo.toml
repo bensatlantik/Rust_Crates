@@ -1,0 +1,13 @@
+[package]
+name = "pipecrafter"
+version = "0.1.1"
+edition = "2021"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+description = "A flexible, chainable data transformation pipeline for Rust"
+license = "MIT"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+csv = "1.1"
+
+[dev-dependencies]

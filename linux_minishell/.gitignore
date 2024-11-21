@@ -1,0 +1,5 @@
+# Ignore compiled files and build artifacts
+/target/
+
+# Ignore the Cargo lock file (only for libraries)
+/Cargo.lock

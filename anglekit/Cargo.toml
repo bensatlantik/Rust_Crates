@@ -1,0 +1,11 @@
+[package]
+name = "anglekit"
+version = "0.1.2"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+license = "MIT"
+description = "A Rust library for converting angles between degrees and radians."
+
+[dependencies]
+
+

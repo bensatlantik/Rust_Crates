@@ -1,0 +1,15 @@
+[package]
+name = "mandelbrot_fractal_generator"
+version = "0.1.5"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+description = "A Rust project to generate and visualize the Mandelbrot fractal." 
+license = "MIT"
+
+# Specify the binary target
+[[bin]]
+name = "mandelbrot_fractal_generator"
+path = "src/main.rs"
+
+[dependencies]
+image = "0.23.14"

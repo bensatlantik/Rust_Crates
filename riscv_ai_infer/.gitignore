@@ -1,0 +1,13 @@
+# Ignore the Cargo.lock file, as it's usually unnecessary for libraries
+Cargo.lock
+
+# Ignore the target directory where compiled binaries are stored
+target/
+
+# Ignore editor/IDE configurations
+.idea/
+.vscode/
+*.swp
+
+# macOS specific
+.DS_Store

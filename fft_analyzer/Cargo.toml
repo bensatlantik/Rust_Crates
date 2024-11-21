@@ -1,0 +1,13 @@
+[package]
+name = "fft-analyzer"
+version = "0.1.2"
+edition = "2021"
+license = "MIT"
+description = "A Rust program that reads a .wav file, performs an FFT, and generates a PNG plot of the frequency spectrum."
+keywords = ["rust", "fft", "wav", "spectrum", "plot"]
+
+[dependencies]
+hound = "3.5"
+rustfft = "6.1"
+plotters = "0.3"
+num-complex = "0.4"

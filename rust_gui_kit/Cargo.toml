@@ -1,0 +1,7 @@
+[package]
+name = "rust_gui_kit"
+version = "0.2.3"
+authors = ["bensatlantik"]
+edition = "2021"
+description = "A cross-platform GUI framework for Rust to simplify the creation of desktop applications."
+license = "MIT"

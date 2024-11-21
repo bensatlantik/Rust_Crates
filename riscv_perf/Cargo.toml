@@ -1,0 +1,12 @@
+[package]
+name = "riscv_perf"
+version = "0.1.0"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2018"
+description = "A performance profiling library for RISC-V programs."
+license = "MIT"
+homepage = "https://github.com/bensatlantik/riscv_perf"
+documentation = "https://docs.rs/riscv_perf"
+readme = "README.md"
+
+[dependencies]

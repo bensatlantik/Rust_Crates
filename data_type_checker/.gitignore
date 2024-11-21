@@ -1,0 +1,23 @@
+# Binaries for programs and examples
+/target
+/debug
+/release
+
+# Package manager files
+Cargo.lock
+
+# Backup and temporary files
+**/*.rs.bk
+*.swp
+*.swo
+*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# MacOS-specific metadata
+.DS_Store
+
+# Other platform-specific
+*.dSYM

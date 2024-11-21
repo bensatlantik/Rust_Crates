@@ -1,0 +1,12 @@
+[package]
+name = "crabi_test"
+version = "0.2.2"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+description = "An experimental Rust library for exploring and experimenting with ABI concepts and cross-language interoperability." 
+license = "MIT"
+readme = "README.md"
+keywords = ["Rust", "ABI", "FFI", "interoperability", "education"]
+categories = ["development-tools", "external-ffi-bindings", "no-std"]
+
+[dependencies]

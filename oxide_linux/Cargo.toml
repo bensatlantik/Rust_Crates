@@ -1,0 +1,9 @@
+[package]
+name = "oxide_linux"
+version = "0.1.5"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+description = "A minimalist utility library for fetching common Linux system information."
+license = "MIT OR Apache-2.0"
+
+[dependencies]

@@ -1,0 +1,17 @@
+[package]
+name = "abi_lab" 
+version = "0.1.1"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+description = "A Rust library and binary for exploring advanced Application Binary Interface (ABI) concepts, FFI, and cross-language interoperability."
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+keywords = ["ABI", "FFI", "interoperability", "callbacks", "memory-management"]
+categories = ["development-tools", "external-ffi-bindings", "no-std"]
+
+[dependencies]
+thiserror = "1.0"
+
+[[bin]]
+name = "abi_lab" # Name for the binary
+path = "src/main.rs"

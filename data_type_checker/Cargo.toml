@@ -1,0 +1,11 @@
+[package]
+name = "data_type_checker"
+version = "0.1.3"
+edition = "2021"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+description = "A lightweight Rust library for validating and converting data types from strings."
+license = "MIT"
+readme = "README.md"
+keywords = ["datatype", "validation", "conversion", "utility"]
+
+[dependencies]

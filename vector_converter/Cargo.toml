@@ -1,0 +1,12 @@
+[package]
+name = "vector_converter"
+version = "0.1.1"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2018"
+description = "A library to convert between vectors of different types."
+license = "MIT"
+homepage = "https://github.com/bensatlantik/vector_converter"
+documentation = "https://docs.rs/vector_converter"
+readme = "README.md"
+
+[dependencies]

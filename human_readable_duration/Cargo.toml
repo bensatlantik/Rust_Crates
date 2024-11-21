@@ -1,0 +1,15 @@
+[package]
+name = "human_readable_duration"
+version = "0.1.2"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2018"
+description = "A Rust library for formatting and parsing human-readable durations."
+license = "MIT"
+homepage = "https://github.com/bensatlantik/human_duration"
+documentation = "https://docs.rs/human_duration"
+readme = "README.md"
+keywords = ["duration", "time", "human-readable", "formatting", "parsing"]
+categories = ["no-std"]
+
+[dependencies]
+# Add any dependencies here if needed

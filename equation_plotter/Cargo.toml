@@ -1,0 +1,10 @@
+[package]
+name = "equation_plotter"
+version = "0.1.5"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+description = "A Rust program to plot mathematical equations and save as PNG files."
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+plotters = "0.3"
