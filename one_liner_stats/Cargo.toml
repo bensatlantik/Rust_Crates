@@ -1,0 +1,10 @@
+[package]
+name = "one_liner_stats"
+version = "0.1.0"
+description = "A small library that computes descriptive statistics (mean, median, mode, etc.) on the fly for numeric slices or streams."
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+license = "MIT"
+
+[dependencies] 
+ordered-float = "2.1"
