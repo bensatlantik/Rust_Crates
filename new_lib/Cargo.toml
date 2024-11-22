@@ -1,0 +1,10 @@
+[package]
+name = "pwm_gen"
+version = "0.1.2"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+license = "MIT"
+description = "A simple PWM signal generator in Rust"
+repository = "https://github.com/bensatlantik/pwm_gen"
+
+[dependencies]
