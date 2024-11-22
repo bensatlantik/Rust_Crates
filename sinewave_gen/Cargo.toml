@@ -1,6 +1,7 @@
 [package]
 name = "sinewave_gen"
 version = "0.1.0"
+description = "A Rust application that generates a 440 Hz sine wave and saves it as a WAV file. Useful for learning audio processing basics or testing audio systems."
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 edition = "2021"
 license = "MIT"
