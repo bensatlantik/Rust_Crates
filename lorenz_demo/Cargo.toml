@@ -1,0 +1,10 @@
+[package]
+name = "lorenz_demo"
+version = "0.1.0"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+description = "A Rust project demonstrating chaos theory using the Lorenz system."
+license = "MIT"
+
+[dependencies]
+plotters = "0.3"  # For visualization
