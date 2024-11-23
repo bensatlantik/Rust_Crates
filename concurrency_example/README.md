@@ -1,7 +1,3 @@
-## Archived Repository
-
-**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
-
 ## concurrency_example
 
 ## Overview
@@ -36,4 +32,4 @@ The output might appear differently depending on your terminal's behavior with c
 This project is licensed under the MIT License
 
 ## Author
-Ben Santora <bensatlantik@gmail.com>
+bensatlantik

@@ -1,7 +1,7 @@
 [package]
 name = "concurrency_example"
 version = "0.1.2"
-authors = ["Ben Santora <bensatlantik@gmail.com>"]
+author = ["bensatlantik"]
 edition = "2021"
 description = "A simple Rust program demonstrating concurrency using threads."
 license = "MIT"
