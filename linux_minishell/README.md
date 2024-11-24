@@ -1,9 +1,4 @@
-## Archived Repository
-
-**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
-
 # linux_minishell
-
 A minimal, Bash-like shell written in Rust with support for common commands like `pwd`, `cd`, `history`, `clear`, and more. This shell aims to be simple, lightweight, and easy to extend for educational purposes or personal use.
 
 ## 🚀 Features
